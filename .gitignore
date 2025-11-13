@@ -1,0 +1,9 @@
+/.crush
+node_modules
+node_modules_old
+node_modules_prev
+dist
+.vite
+.env.local
+.env.production
+.env.development
